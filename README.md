@@ -1,102 +1,126 @@
-# 👨‍💻 Vikram
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vikramships&style=for-the-badge&color=0e76a8)
-![Followers](https://img.shields.io/github/followers/vikramships?style=for-the-badge&color=0e76a8)
-![Stars](https://img.shields.io/github/stars/vikramships?style=for-the-badge&color=0e76a8)
+# 🌌 ʟᴏᴀᴅɪɴɢ ᴠɪᴋʀᴀᴍ.ᴇxᴇ...
+
+*indiehacker | agency owner | night owl*
 
 </div>
 
 ---
 
-## 🌙 About Me
+<br>
 
-Passionate developer crafting digital experiences in the dark. I thrive on solving complex problems and building elegant solutions.
+<div align="center">
 
-```javascript
-const developer = {
-    name: "Vikram",
-    role: "Full Stack Developer",
-    passions: ["Coding", "Innovation", "Open Source"],
-    currently: "Building cool stuff 🚀"
-};
-```
+![retro-divider](https://user-images.githubusercontent.com/58329148/209939545-7f9e9c9c-4e3e-4b3e-8b7e-7f9e9c9c4e3e.png)
+
+</div>
+
+<div align="center">
+
+## 🌙 ᴅᴀʀᴋ ᴍᴏᴅᴇ ᴀᴄᴛɪᴠᴀᴛᴇᴅ
+
+</div>
+
+<br>
+
+<div align="center">
+
+**`Building in the dark while others sleep.`**
+I'm an indiehacker and agency owner crafting digital experiences that matter. Currently shipping products and helping others build theirs.
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<br>
+
+## 💻 sᴛᴀᴄᴋ ᴏғ ᴄʜᴏɪᴄᴇ
+
+<div align="center">
 
 ### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<span style="color: #64ffda">▍</span> ![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+<span style="color: #64ffda">▍</span> ![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)
+<span style="color: #64ffda">▍</span> ![TailwindCSS](https://img.shields.io/badge/tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<span style="color: #f06292">▍</span> ![Node.js](https://img.shields.io/badge/node-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+<span style="color: #f06292">▍</span> ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=3670A0)
+<span style="color: #f06292">▍</span> ![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=316192)
 
-### DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikramships&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0e76a8&icon_color=0e76a8&text_color=c9d1d9"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramships&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e76a8&text_color=c9d1d9"/>
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikramships&theme=github-dark&hide_border=true&bg_color=0D1117&color=0e76a8&line=0e76a8&point=ffffff"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=vikramships&theme=darkhub&no-frame=true&no-bg=true&margin-w=4"/>
-</div>
-
----
-
-## 🔥 Current Streak
-
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=vikramships&theme=dark&hide_border=true&background=0D1117&stroke=0e76a8&ring=0e76a8&fire=ff6b6b&currStreakLabel=c9d1d9"/>
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/vikramships)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zenohkai@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0e76a8?style=for-the-badge&logo=About.me&logoColor=white)](https://vikramships.vercel.app/)
+### Tools
+<span style="color: #ffd54f">▍</span> ![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+<span style="color: #ffd54f">▍</span> ![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 </div>
 
 ---
 
+<br>
+
 <div align="center">
 
-**⭐ If you like my work, consider giving it a star! ⭐**
+## 📊 ᴅᴀʀᴋ ᴀɴᴀʟʏᴛɪᴄs
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikramships&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramships&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=000000&title_color=bd93f9&text_color=f8f8f2"/>
 
 </div>
 
+---
+
+<br>
+
 <div align="center">
 
-*Coded with 💙 and lots of ☕ in the dark*
+## 🎮 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢᴀᴍᴇ
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikramships&theme=dracula&hide_border=true&bg_color=000000&color=bd93f9&line=bd93f9&point=ffffff"/>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🔥 sᴛʀᴇᴀᴋ sᴛᴀᴛᴜs
+
+<img src="https://streak-stats.demolab.com?user=vikramships&theme=dark&hide_border=true&background=000000&stroke=bd93f9&ring=bd93f9&fire=ff5555&currStreakLabel=f8f8f2"/>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🌐 ᴄᴏɴɴᴇᴄᴛ ɪɴ ᴛʜᴇ ᴅᴀʀᴋ
+
+[![Twitter](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/vikramships)
+[![Email](https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff5252)](mailto:zenohkai@gmail.com)
+[![Portfolio](https://img.shields.io/badge/web-000000?style=for-the-badge&logo=google-chrome&logoColor=64ffda)](https://vikramships.vercel.app/)
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+<span style="color: #6272a4">▍</span> **`let build = () => while(true) { code(); coffee(); repeat; }`**
+<span style="color: #6272a4">▍</span> *crafted with 💜 in the midnight hours*
+
+</div>
+
+<br>
+
+<div align="center">
+
+**`EOF`**
 
 </div>
