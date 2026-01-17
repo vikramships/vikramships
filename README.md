@@ -1,125 +1,128 @@
-# Vikram
+<p>
+  <a href="https://vikram.ignylabs.com/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=portfolio&logoColor=white&color=00D4FF" alt="Portfolio"/></a>
+  <a href="https://ignylabs.com"><img src="https://img.shields.io/badge/Agency-FF0080?style=for-the-badge&logo=agency&logoColor=white&color=FF0080" alt="Agency"/></a>
+  <a href="https://x.com/vikramships"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+  <a href="mailto:ignylabs@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&color=FF6B6B" alt="Email"/></a>
+</p>
 
-Indie Hacker • Agency Owner • Product Builder  
-Building products while others sleep.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=false&vCenter=false&width=500&lines=whoami" alt="Typing SVG" />
 
-<a href="https://vikramships.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=fff" /></a>
-<a href="mailto:zenohkai@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=ff5252" /></a>
-<a href="https://x.com/vikramships"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=fff" /></a>
-
----
-
-## About
-
-I design, build, and ship software end‑to‑end. I run a development agency and experiment with indie products on the side.
-
-```js
-const now = {
-  building: 'Indie products',
-  running: 'Development agency',
-  learning: 'New stacks and faster workflows'
+```json
+{
+  "name": "Vikram",
+  "role": "Indie Hacker & Builder",
+  "experience": "3+ years",
+  "focus": ["Rust", "Go", "Web3", "AI"],
+  "status": "Building the future, one line at a time",
+  "mantra": "Code in silence, ship with purpose"
 }
 ```
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=false&vCenter=false&width=500&lines=Tech+Stack+%26+Tools" alt="Typing SVG" />
 
-## Tech Stack
+<details open>
+<summary><strong>🌟 Languages & Frameworks</strong></summary>
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=FF6B6B" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Go-00D4FF?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
+</p>
+</details>
 
-### Frontend
-<span style="color: #64ffda">▍</span> ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-<span style="color: #64ffda">▍</span> ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-<span style="color: #64ffda">▍</span> ![React Native](https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-<span style="color: #64ffda">▍</span> ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B)
-<span style="color: #64ffda">▍</span> ![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+<br>
 
-### Backend
-<span style="color: #f06292">▍</span> ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-<span style="color: #f06292">▍</span> ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff)
-<span style="color: #f06292">▍</span> ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3670A0)
-<span style="color: #f06292">▍</span> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
-<span style="color: #f06292">▍</span> ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=092E20)
-<span style="color: #f06292">▍</span> ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-<span style="color: #f06292">▍</span> ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)
+<details>
+<summary><strong>📱 Mobile Development</strong></summary>
+<p>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"/>
+</p>
+</details>
 
-### Database & Storage
-<span style="color: #ffd54f">▍</span> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192)
-<span style="color: #ffd54f">▍</span> ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
-<span style="color: #ffd54f">▍</span> ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-<span style="color: #ffd54f">▍</span> ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=DC382D)
+<br>
 
-### DevOps & Tools
-<span style="color: #00d4ff">▍</span> ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-<span style="color: #00d4ff">▍</span> ![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=009639)
-<span style="color: #00d4ff">▍</span> ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-<span style="color: #00d4ff">▍</span> ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-<span style="color: #00d4ff">▍</span> ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
-<span style="color: #00d4ff">▍</span> ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+<details>
+<summary><strong>🌐 Web Technologies</strong></summary>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+</p>
+</details>
 
-### AI & Machine Learning
-<span style="color: #ff6ec7">▍</span> ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=412991)
-<span style="color: #ff6ec7">▍</span> ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
-<span style="color: #ff6ec7">▍</span> ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-<span style="color: #ff6ec7">▍</span> ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-<span style="color: #ff6ec7">▍</span> ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+<br>
 
-### Web3 & Blockchain
-<span style="color: #ce9cff">▍</span> ![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=363636)
-<span style="color: #ce9cff">▍</span> ![Ethereum](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=3C3C3D)
-<span style="color: #ce9cff">▍</span> ![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3.js&logoColor=F16822)
-<span style="color: #ce9cff">▍</span> ![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=hardhat&logoColor=FFCF1F)
+<details>
+<summary><strong>⛓️ Web3 & Blockchain</strong></summary>
+<p>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana"/>
+  <img src="https://img.shields.io/badge/Hardhat-F6F7F9?style=flat-square&logo=hardhat&logoColor=black" alt="Hardhat"/>
+  <img src="https://img.shields.io/badge/Foundry-FF6B6B?style=flat-square&logo=foundry&logoColor=white" alt="Foundry"/>
+</p>
+</details>
 
-### Other Skills
+<br>
 
-**Product & Design**
-- Product strategy and roadmapping
-- UI/UX design in Figma
-- Rapid prototyping and user testing
+<details>
+<summary><strong>🤖 AI & Automation</strong></summary>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Claude-FF6B6B?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
+</p>
+</details>
 
-**Architecture & Systems**
-- System design and scalability
-- API architecture (REST/GraphQL)
-- Database optimization and caching
-- Microservices and distributed systems
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9333EA&center=false&vCenter=false&width=500&lines=GitHub+Analytics" alt="Typing SVG" />
 
-**Business**
-- Agile project management
-- Client communication and requirements gathering
-- Technical documentation and team leadership
+<img src="https://github-readme-stats.vercel.app/api?username=vikramships&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=FF0080&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramships&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6B6B&text_color=c9d1d9" alt="Top Languages"/>
 
-## What I Do
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikramships&theme=github-dark&hide_border=true&bg_color=0d1117&color=00D4FF&line=FF0080&point=0d1117&area=true&hide_title=true" alt="GitHub Activity Graph"/>
 
-I build products from idea to deployment. Started with client projects, now focused on indie products that solve real problems. I handle everything from architecture to deployment and scaling.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=false&vCenter=false&width=500&lines=Current+Focus" alt="Typing SVG" />
 
-Open to interesting projects - especially AI tools, developer products, and B2B SaaS.
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   🚀 Building indie products with cutting-edge technology    ║
+║   💼 Running ignylabs.com - Empowering digital innovation    ║
+║   🤖 Shipping AI agents & automation solutions               ║
+║   🌟 Exploring the intersection of Web3 & AI                 ║
+║                                                              ║
+║   💡 Open to: AI tools • Dev products • B2B SaaS • Web3     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF6B6B&center=false&vCenter=false&width=500&lines=Code+in+Silence%2C+Ship+with+Purpose" alt="Typing SVG" />
 
-## Stats
+```rust
+fn life() -> ! {
+    loop {
+        code();
+        ship();
+        learn();
+        // sleep() is optional
+    }
+}
+```
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikramships&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramships&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=000000&title_color=bd93f9&text_color=f8f8f2"/>
-</div>
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║        🌙 Crafted in the midnight hours       ║
+║        ⚡ Powered by curiosity & caffeine      ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
 
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikramships&theme=dracula&hide_border=true&bg_color=000000&color=bd93f9&line=bd93f9&point=ffffff"/>
-</div>
-
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=vikramships&theme=dark&hide_border=true&background=000000&stroke=bd93f9&ring=bd93f9&fire=ff5555&currStreakLabel=f8f8f2"/>
-</div>
-
----
-
-## Connect
-
-- Portfolio: https://vikramships.vercel.app/
-- X: https://x.com/vikramships
-- Email: zenohkai@gmail.com
-
-<br/>
-
-<em>let build = () => while(true) { code(); coffee(); repeat; }</em>  
-<sub>crafted with 💜 in the midnight hours</sub>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vikramships&label=Profile%20views&color=00D4FF&style=flat" alt="Profile views" />
+</p>
