@@ -9,10 +9,14 @@
 {
   "name": "Vikram",
   "role": "Indie Hacker • Freelancer • Agency Owner",
-  "focus": ["Rust", "Web3", "AI"],
-  "mantra": "Code in silence, ship with purpose"
+  "focus": ["Rust", "Web3", "AI"]
 }
 ```
+
+**Projects**
+- [turbowhisper.com](https://turbowhisper.com) - AI transcription
+- [shipaiagents.com](https://shipaiagents.com) - AI agents
+- [ignylabs.com](https://ignylabs.com) - Agency
 
 ```rust
 fn life() -> ! {
