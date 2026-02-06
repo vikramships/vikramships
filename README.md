@@ -1,29 +1,60 @@
-<p>
-  <a href="https://vikram.ignylabs.com/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=portfolio&logoColor=white&color=2563EB" alt="Portfolio"/></a>
-  <a href="https://ignylabs.com"><img src="https://img.shields.io/badge/Agency-DC143C?style=for-the-badge&logo=agency&logoColor=white&color=DC143C" alt="Agency"/></a>
-  <a href="https://x.com/vikramships"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
-  <a href="mailto:ignylabs@gmail.com"><img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white&color=DC143C" alt="Email"/></a>
-</p>
+<div align="center">
 
-```json
-{
-  "name": "Vikram",
-  "role": "Indie Hacker • Freelancer • Agency Owner",
-  "focus": ["Rust", "Web3", "AI"]
-}
-```
+# Hey, I'm Vikram 👋
 
-**Projects**
-- [turbowhisper.com](https://turbowhisper.com) - AI transcription
-- [shipaiagents.com](https://shipaiagents.com) - AI agents
-- [ignylabs.com](https://ignylabs.com) - Agency
+### 3 Years of Dev Experience • Open to Remote Roles
+
+Building with **Rust** • **Go** • **TypeScript** • **AI Agents** • **Web3**
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge)](https://vikram.ignylabs.com/)
+[![X](https://img.shields.io/badge/𝕏_Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vikramships)
+[![Email](https://img.shields.io/badge/📧_Contact-DC143C?style=for-the-badge)](mailto:ignylabs@gmail.com)
+
+</div>
+
+---
+
+## 🚢 Shipping
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎙️ TurboWhisper
+AI-powered transcription that actually works
+<br/><br/>
+**[turbowhisper.com →](https://turbowhisper.com)**
+
+</td>
+<td width="50%">
+
+### 🤖 ShipAI Agents
+Build & deploy AI agents faster
+<br/><br/>
+**[shipaiagents.com →](https://shipaiagents.com)**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
 
 ```rust
 fn life() -> ! {
-    loop { code(); ship(); learn(); }
+    loop {
+        code();
+        ship();
+        learn();
+    }
 }
 ```
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=vikramships&label=Profile%20views&color=DC143C&style=flat" alt="Profile views" />
-</p>
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=vikramships&label=Profile%20views&color=DC143C&style=flat)
+
+</div>
